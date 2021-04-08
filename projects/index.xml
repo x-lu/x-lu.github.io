@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Projects on Lu Xu</title>
+    <link>https://x-lu.github.io/projects/</link>
+    <description>Recent content in Research Projects on Lu Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://x-lu.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regression Network for Hand Pose Estimation with Auxiliary Variable for Structured-Output</title>
+      <link>https://x-lu.github.io/projects/project_1/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://x-lu.github.io/projects/project_1/</guid>
+      <description>&lt;p&gt;The regression based deep networks have achieved the state-of-the-arts performance on 3D hand pose estimation tasks. However, the challenges are still remains, such as how to learn the high-dimensional mapping between features and pose joints while following the kinematics of human hands. This work focuses on this problem and proposes an novel algorithm inspired by the distribution modeling ability of Variational Autoencoders.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Image Regression with Deep Kernel Learning</title>
+      <link>https://x-lu.github.io/projects/project_2/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://x-lu.github.io/projects/project_2/</guid>
+      <description>&lt;p&gt;Semi-supervised learning (SSL) aims at utilizing the vast unlabeled data to help the supervised training. While existing SSL methods have shown promising results on image classification tasks, most of them rely on the cluster assumption that do not apply to image regression tasks. We address the under-studied semi-supervised image regression tasks and propose an algorithm that applies the manifold smoothness theory to image regression tasks.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
