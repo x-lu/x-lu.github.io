@@ -1,0 +1,35 @@
+# Basic information
+title: Lu Xu
+position: Research Associate
+affiliation: Hong Kong Metropolitan University
+affiliation_link: https://www.hkmu.edu.hk/nhs/
+email: xulu_0908 (at) hotmail.com · Lu.Xu.phD (at) outlook.com
+
+# Search engine optimization
+keywords: Bayesian statistics, machine learning, deep learning, computer vision
+description: Academic homepage of Lu Xu, featuring research interests, education, news, and publications.
+canonical: https://x-lu.github.io/
+
+# Links
+github_link: https://github.com/x-lu
+twitter: https://twitter.com/L_u_X_u
+
+# Images
+avatar: ./assets/img/profile-night-soft.png
+favicon: ./favicon.ico
+favicon_dark: ./favicon.ico
+
+# Theme options
+enable_footnote: true
+auto_dark_mode: true
+font: "Serif"
+
+# Pin the remote theme so upstream changes cannot unexpectedly alter the site.
+remote_theme: yaoyao-liu/minimal-light@dd114c3fef2d97adc1c6b6d46901e0d96ab83a7c
+plugins:
+  - jekyll-remote-theme
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

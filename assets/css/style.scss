@@ -1,0 +1,48 @@
+---
+---
+
+@import "minimal-light";
+
+.image.avatar {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+}
+
+.image.avatar img {
+  width: 150px;
+  height: 150px;
+  padding: 0;
+  border: 1px solid rgba(127, 127, 127, 0.25);
+  object-fit: cover;
+  object-position: center;
+  transform: scale(1.16);
+  transform-origin: center 42%;
+}
+
+.publications ol.bibliography li {
+  min-height: 0;
+  margin-bottom: 1.5rem;
+}
+
+.publication-badge {
+  margin-right: 0.45rem;
+  background-color: var(--global-theme-color);
+}
+
+.publication-note {
+  margin-left: 0.4rem;
+  color: #e74d3c;
+}
+
+@media print, screen and (max-width: 480px) {
+  .image.avatar {
+    width: 120px;
+    height: 120px;
+  }
+
+  .image.avatar img {
+    width: 120px;
+    height: 120px;
+  }
+}

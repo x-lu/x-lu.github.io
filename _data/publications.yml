@@ -1,0 +1,40 @@
+main:
+  - title: "Beyond Euclidean Gossip: KL-Barycentric Consensus on Heterogeneous and Imbalanced Images"
+    authors: <strong>Lu Xu</strong>, Guosheng Yin
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    pdf: https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Beyond_Euclidean_Gossip_KL-Barycentric_Consensus_on_Heterogeneous_and_Imbalanced_Images_CVPR_2026_paper.pdf
+    code: https://github.com/x-lu/Beyond-euclidean-gossip
+
+  - title: "Variational Pólya Tree"
+    authors: <strong>Lu Xu</strong>, Tsai Hor Chan, Lequan Yu, Kwok Fai Lam, Guosheng Yin
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2025/file/a17f63ce8ea28b396a679633ed00c76b-Paper-Conference.pdf
+    code: https://github.com/howardchanth/var-polya-tree
+
+  - title: "The Memory-Perturbation Equation: Understanding Model's Sensitivity to Data"
+    authors: Peter Nickl, <strong>Lu Xu</strong>, Dharmesh Tailor, Thomas Möllenhoff, Mohammad Emtiyaz E. Khan
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/550ab405d0addd3de5b70e57b44878df-Paper-Conference.pdf
+    slides: https://neurips.cc/virtual/2023/poster/71001
+
+  - title: "Semi-supervised regression with manifold: A Bayesian deep kernel learning approach"
+    authors: <strong>Lu Xu</strong>, Chen Hu, Kuizhi Mei
+    conference_short: Neurocomputing
+    conference: <strong>Neurocomputing</strong>, 2022.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0925231222005343
+
+  - title: Deep Conditional Variational Estimation for Depth-Based Hand Poses
+    authors: <strong>Lu Xu</strong>, Chen Hu, Yinqi Li, Jianru Xue, Kuizhi Mei
+    conference_short: FG
+    conference: 14th IEEE International Conference on Automatic Face & Gesture Recognition <strong>(FG)</strong>, 2019.
+    pdf: https://ieeexplore.ieee.org/abstract/document/8756559
+    notes: Fully oral presentation
+
+  - title: Improve Regression Network on Depth Hand Pose Estimation with Auxiliary Variable
+    authors: <strong>Lu Xu</strong>, Chen Hu, Ji'an Tao, Jianru Xue, Kuizhi Mei
+    conference_short: TCSVT
+    conference: <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>.
+    pdf: https://ieeexplore.ieee.org/document/9085372
